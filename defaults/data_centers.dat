@@ -1,0 +1,17 @@
+AusPass http://auspass.edu.au/fdsnws/dataselect/1/
+BGR	http://eida.bgr.de/fdsnws/dataselect/1/
+ETHZ	http://eida.ethz.ch/fdsnws/dataselect/1/
+GEOFON	http://geofon.gfz-potsdam.de/fdsnws/dataselect/1/
+ICGC    https://ws.icgc.cat/fdsnws/dataselect/1/
+INGV    http://webservices.ingv.it/fdsnws/dataselect/1/
+IPGP    http://ws.ipgp.fr/fdsnws/dataselect/1/
+IRIS	http://service.iris.edu/fdsnws/dataselect/1/
+KOERI   http://eida.koeri.boun.edu.tr/fdsnws/dataselect/1/
+LMU     http://erde.geophysik.uni-muenchen.de/fdsnws/dataselect/1/
+NCEDC 	http://service.ncedc.org/fdsnws/dataselect/1/
+NIEP    http://eida-sc3.infp.ro/fdsnws/dataselect/1/
+NOA     http://eida.gein.noa.gr/fdsnws/dataselect/1/
+NRCAN   http://earthquakescanada.nrcan.gc.ca/fdsnws/dataselect/1/
+ORFEUS	http://www.orfeus-eu.org/fdsnws/dataselect/1/
+RESIF	https://ws.resif.fr/fdsnws/dataselect/1/
+SCEDC   http://service.scedc.caltech.edu/fdsnws/dataselect/1/
